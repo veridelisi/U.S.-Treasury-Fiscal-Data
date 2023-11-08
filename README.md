@@ -1,6 +1,6 @@
 # U.S.-Treasury-Fiscal-Data
 
-Hey econ, I can help you with an introduction for your U.S. Treasury Fiscal Data API Python analysis on my GitHub page.
+Hey econ, I can help you for U.S. Treasury Fiscal Data.
 
 ## Data Source
 
