@@ -35,6 +35,7 @@ The heart of our analysis relies on the U.S. Treasury's "Operating Cash Balance"
 
 - **API Endpoint**: [U.S. Treasury Operating Cash Balance Dataset](https://fiscaldata.treasury.gov/datasets/daily-treasury-statement/operating-cash-balance)
 - **Data Coverage**: The dataset encompasses a comprehensive set of financial data, including opening and closing cash balances, daily deposits, and withdrawals.
+- **Code**: [Python Analysis](https://github.com/veridelisi/U.S.-Treasury-Fiscal-Data/blob/main/Operating_Cash_Balance.ipynb)
 
 Our analysis leverages this valuable dataset to understand and visualize the dynamics of the U.S. government's cash flow, examine monthly trends, and gain insights into the financial health of the nation.
 
