@@ -1,6 +1,15 @@
 # U.S.-Treasury-Fiscal-Data
 
-Certainly, I can help you with an introduction for your U.S. Treasury Fiscal Data API Python analysis on a GitHub page. Below is a sample introductory section for your GitHub README:
+Hey econ, I can help you with an introduction for your U.S. Treasury Fiscal Data API Python analysis on my GitHub page.
+
+## Data Source
+
+The financial data used in this analysis is sourced from the U.S. Treasury's Fiscal Data API. This API provides access to a wide range of fiscal and financial data related to the U.S. government's operations.
+
+- **API Endpoint**: [U.S. Treasury Fiscal Data API](https://fiscaldata.treasury.gov/datasets/)
+
+The U.S. Treasury Fiscal Data API is a valuable resource for exploring and understanding the government's financial activities, and it serves as the foundation for the insights and visualizations presented in this repository.
+
 
 # U.S. Treasury Fiscal Data API Python Analysis
 
