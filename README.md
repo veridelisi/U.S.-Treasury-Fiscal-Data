@@ -27,4 +27,18 @@ The U.S. Treasury Fiscal Data API provides a wealth of information about the fin
 
 - **Data Visualization:** We use popular data visualization libraries like Pandas, Matplotlib, and Seaborn to create insightful charts and graphs.
 
+## Dataset I: U.S. Treasury Operating Cash Balance
+
+The heart of our analysis relies on the U.S. Treasury's "Operating Cash Balance" dataset. This dataset, obtained from the [U.S. Treasury Fiscal Data API](https://fiscaldata.treasury.gov/datasets/daily-treasury-statement/operating-cash-balance), provides a detailed view of the U.S. government's daily financial operations, offering insights into the inflow and outflow of cash into the Treasury's accounts.
+
+### Key Information
+
+- **API Endpoint**: [U.S. Treasury Operating Cash Balance Dataset](https://fiscaldata.treasury.gov/datasets/daily-treasury-statement/operating-cash-balance)
+- **Data Coverage**: The dataset encompasses a comprehensive set of financial data, including opening and closing cash balances, daily deposits, and withdrawals.
+
+Our analysis leverages this valuable dataset to understand and visualize the dynamics of the U.S. government's cash flow, examine monthly trends, and gain insights into the financial health of the nation.
+
+Please note that this dataset is updated regularly, and our analysis reflects the latest available data to provide you with a current snapshot of the U.S. Treasury's financial status.
+
+
 Engin YILMAZ (@veridelisi)
