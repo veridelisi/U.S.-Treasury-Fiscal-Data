@@ -1,6 +1,6 @@
 # U.S.-Treasury-Fiscal-Data
 
-Hey econ, I can help you for U.S. Treasury Fiscal Data.
+Hey econ, I can help you for U.S. Treasury Fiscal Data
 
 ## Data Source
 
