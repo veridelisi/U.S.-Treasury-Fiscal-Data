@@ -2,6 +2,8 @@
 
 Hey econ, I can help you for U.S. Treasury Fiscal Data
 
+#fiscaldata #usafiscaldata #usafiscaldataapi #usaspending #usarevenues #usadebt
+
 ## Data Source
 
 The financial data used in this analysis is sourced from the U.S. Treasury's Fiscal Data API. This API provides access to a wide range of fiscal and financial data related to the U.S. government's operations.
